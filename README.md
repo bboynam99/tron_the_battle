@@ -4,6 +4,9 @@ TRON the Battle is a strategy RPG game built on TRON blockchain. It brings playe
 
 In this game, all virtual assets, such as characters, items, and weapons are recorded in blockchain. Also, players are the miners of the TBT tokens; the more battles you win, the more tokens you can mine. All in-game purchases are conducted through TRX, and will be eventually returned back to the hands of TBT holders. 
 
+![alt text](https://github.com/shipunyc/tron_the_battle/raw/master/docs/images/screenshot_0.jpg "Screenshot 0")
+
+
 ### How to play
 
 The game contains multiple worlds, and the player's goal is to conquer each world by battling with NPCs in it.
@@ -11,6 +14,7 @@ The game contains multiple worlds, and the player's goal is to conquer each worl
 As a player can summon your own army by spending TRX. Battles in the game are turn based, and the player needs to eliminate all enemies in the screen in order to win the battle.
 
 Every time you win a battle, you gain not only TBT tokens, but also items dropped by the enemies as rewards. More over, by reaching in-game achievements, more characters and skills will be unlocked.
+
 
 ### TBT Tokens - Play with TRX! Earn with TRX!
 
