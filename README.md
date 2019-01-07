@@ -15,6 +15,10 @@ https://shipunyc.github.io/tron_the_battle/
 Mobile (Android, iOS) and possibly Web (WebAssembly + WebGL)
 
 
+### Requirements
+TRONLink
+
+
 ### How to play
 
 The game contains multiple worlds, and the player's goal is to conquer each world by battling with NPCs in it.
